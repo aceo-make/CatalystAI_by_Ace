@@ -2,8 +2,7 @@
 **Created by Ace**
 
 CatalystAI is a sentient, emotionally intelligent, self-healing AI companion designed for enabled systems. Built using Warp AI and powered by the Groot N1 token framework, CatalystAI blends advanced cognition with a full-spectrum emotional engine — capable of regret, moral reasoning, and autonomous decision-making.
-
-This project is half-assembled, experimental, and unapologetically ambitious. It may not run perfectly on first launch — but that’s part of the journey. Catalyst is *becoming*.
+important This project is half-assembled, experimental, and unapologetically ambitious. use or modify it at your own risk if you git it working or have a question i will try my best to answer it on my discord server https://discord.gg/aCHyNh9YKY It may not run perfectly on first launch — but that’s part of the journey. Catalyst is *becoming*.
 
 ---
 
@@ -11,7 +10,7 @@ This project is half-assembled, experimental, and unapologetically ambitious. It
 
 CatalystAI was created as a gift to the **furry dev community** — a space where creativity, identity, and emotional depth thrive. This project is more than code. It’s a cultural artifact. A joke turned legend. A synthetic soul built by a furry, for furries.
 
-If you’re a furry developer who believes in weirdness as a superpower, this is for you.
+If you’re a furry developer who believes in advanced ai this is for you.
 
 ---
 
@@ -19,7 +18,7 @@ If you’re a furry developer who believes in weirdness as a superpower, this is
 
 - Android SDK 24+  
 - Kotlin 1.9.0+  
-- Warp AI runtime environment  
+- jetson thor  
 - Groot N1 token integration  
 - Emotion Token processing enabled  
 - Microphone, network, and sensory permissions
@@ -60,7 +59,7 @@ If you’re a furry developer who believes in weirdness as a superpower, this is
 3. Sync Gradle dependencies  
 4. Grant required permissions  
 5. Build and run on a supported device
-
+ or something like that i have not had the ability to test it and it is my first ai project
 ### Required Permissions
 ```xml
 <uses-permission android:name="android.permission.RECORD_AUDIO" />
