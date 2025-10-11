@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Catalist AI</string>
+    <string name="catalist_tagline">Advanced Android AI with Emotion Intelligence</string>
+    
+    <!-- Status Messages -->
+    <string name="status_initializing">Initializing Catalist AI...</string>
+    <string name="status_ready">Catalist AI Ready</string>
+    <string name="status_processing">Processing your request...</string>
+    <string name="status_error">AI system error occurred</string>
+    
+    <!-- UI Elements -->
+    <string name="send_message">Send</string>
+    <string name="voice_input">Voice Input</string>
+    <string name="text_input_hint">Type your message to Catalist AI...</string>
+    <string name="current_emotion_label">Current Emotion:</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Emotions -->
+    <string name="emotion_neutral">Neutral</string>
+    <string name="emotion_joy">Joy</string>
+    <string name="emotion_sadness">Sadness</string>
+    <string name="emotion_anger">Anger</string>
+    <string name="emotion_fear">Fear</string>
+    <string name="emotion_surprise">Surprise</string>
+    <string name="emotion_disgust">Disgust</string>
+    <string name="emotion_curiosity">Curiosity</string>
+    <string name="emotion_excitement">Excitement</string>
+    <string name="emotion_contentment">Contentment</string>
+    <string name="emotion_confidence">Confidence</string>
+    <string name="emotion_uncertainty">Uncertainty</string>
+    
+    <!-- Permissions -->
+    <string name="permission_microphone_rationale">Catalist AI needs microphone access for voice interaction and emotion analysis through speech.</string>
+    <string name="permission_network_rationale">Catalist AI needs network access for advanced language processing and cloud-based features.</string>
+    <string name="permission_denied_message">Some features may not work properly without required permissions.</string>
+    
+    <!-- Error Messages -->
+    <string name="error_ai_not_ready">AI system is not ready yet. Please wait...</string>
+    <string name="error_processing_input">Error processing your input. Please try again.</string>
+    <string name="error_network_connection">Network connection required for some AI features.</string>
+    <string name="error_microphone_access">Microphone access required for voice features.</string>
+    
+    <!-- Notifications -->
+    <string name="notification_channel_name">Catalist AI Service</string>
+    <string name="notification_channel_description">Keeps Catalist AI running in the background for continuous assistance</string>
+    <string name="notification_ai_running">Catalist AI is active</string>
+    <string name="notification_ai_processing">Processing your request...</string>
+    
+    <!-- Personality Configurations -->
+    <string name="personality_default">Default</string>
+    <string name="personality_empathetic">Empathetic Companion</string>
+    <string name="personality_analytical">Analytical Assistant</string>
+    <string name="personality_creative">Creative Partner</string>
+    <string name="personality_professional">Professional Assistant</string>
+    
+    <!-- Welcome Messages -->
+    <string name="welcome_message">Welcome to Catalist AI! I\'m your advanced AI companion with emotional intelligence. How are you feeling today?</string>
+    <string name="initial_greeting">Hello! I\'m Catalist, ready to assist you with advanced AI capabilities including emotional understanding, natural language processing, and speech interaction.</string>
+    
+    <!-- Voice Messages -->
+    <string name="voice_recording_start">Listening...</string>
+    <string name="voice_recording_stop">Processing speech...</string>
+    <string name="voice_recognition_error">Could not understand speech. Please try again.</string>
+    
+    <!-- Settings -->
+    <string name="settings_personality">AI Personality</string>
+    <string name="settings_voice_style">Voice Style</string>
+    <string name="settings_emotion_sensitivity">Emotion Sensitivity</string>
+    <string name="settings_speech_enabled">Enable Speech</string>
+    <string name="settings_proactive_responses">Proactive Responses</string>
+    <string name="settings_learning_mode">Learning Mode</string>
+    
+    <!-- Emotional Training -->
+    <string name="training_title">Emotional Training</string>
+    <string name="training_description">Teach Catalist AI how to respond to specific emotional situations</string>
+    <string name="training_trigger_hint">Enter trigger phrase...</string>
+    <string name="training_emotion_select">Select target emotion</string>
+    <string name="training_intensity">Emotion intensity</string>
+    <string name="training_save">Save Training</string>
+    
+    <!-- About -->
+    <string name="about_catalist">About Catalist AI</string>
+    <string name="about_description">Catalist AI is an advanced Android artificial intelligence system featuring:\n\n• Emotion Token Processing\n• Advanced Natural Language Understanding\n• Speech Recognition and Synthesis\n• Adaptive Personality System\n• Contextual Awareness\n• Continuous Learning</string>
+    <string name="about_version">Version 1.0.0</string>
+    <string name="about_built_with">Built with Groot N1 and advanced emotion processing</string>
+</resources>
